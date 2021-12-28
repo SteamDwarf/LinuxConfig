@@ -1,0 +1,6 @@
+2021/12/27-22:45:12.326 61f5 Creating DB /home/dmitriy/.config/chromium/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb since it was missing.
+2021/12/27-22:45:12.331 61f5 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_habr.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-22:45:31.120 8394 Level-0 table #5: started
+2021/12/27-22:45:31.123 8394 Level-0 table #5: 1011 bytes OK
+2021/12/27-22:45:31.124 8394 Delete type=0 #3
+2021/12/27-22:45:31.125 8394 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2021/12/27-21:08:21.914 668 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-21:08:21.914 668 Recovering log #3
+2021/12/27-21:08:21.943 668 Reusing old log /home/dmitriy/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/000003.log 
+2021/12/27-21:53:21.245 3c5a Level-0 table #5: started
+2021/12/27-21:53:21.247 3c5a Level-0 table #5: 11186 bytes OK
+2021/12/27-21:53:21.248 3c5a Delete type=0 #3
+2021/12/27-21:53:21.248 3c5a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
