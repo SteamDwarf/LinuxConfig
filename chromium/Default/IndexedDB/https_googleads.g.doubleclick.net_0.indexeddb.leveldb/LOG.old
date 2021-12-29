@@ -1,6 +1,8 @@
-2021/12/27-15:24:52.074 10e0d Creating DB /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb since it was missing.
-2021/12/27-15:24:52.086 10e0d Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/27-15:24:54.195 1127f Level-0 table #5: started
-2021/12/27-15:24:54.197 1127f Level-0 table #5: 364 bytes OK
-2021/12/27-15:24:54.198 1127f Delete type=0 #3
-2021/12/27-15:24:54.198 1127f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/28-11:58:57.366 786 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/28-11:58:57.366 786 Recovering log #4
+2021/12/28-11:58:57.366 786 Reusing old log /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000004.log 
+2021/12/28-11:59:05.841 4ef Level-0 table #8: started
+2021/12/28-11:59:05.841 4ef Level-0 table #8: 0 bytes OK
+2021/12/28-11:59:05.843 4ef Delete type=0 #4
+2021/12/28-11:59:05.843 4ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/28-11:59:05.843 4ef Manual compaction at level-1 from (begin) .. (end); will stop at (end)

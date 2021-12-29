@@ -1,0 +1,6 @@
+[General]
+copyImageToClipboard=true
+
+[GuiConfig]
+cropRegion=1,95,648,278
+window-position=-103,108

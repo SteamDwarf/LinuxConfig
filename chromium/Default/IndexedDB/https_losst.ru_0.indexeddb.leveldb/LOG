@@ -1,7 +1,15 @@
-2021/12/27-21:08:21.914 668 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/27-21:08:21.914 668 Recovering log #3
-2021/12/27-21:08:21.943 668 Reusing old log /home/dmitriy/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/000003.log 
-2021/12/27-21:53:21.245 3c5a Level-0 table #5: started
-2021/12/27-21:53:21.247 3c5a Level-0 table #5: 11186 bytes OK
-2021/12/27-21:53:21.248 3c5a Delete type=0 #3
-2021/12/27-21:53:21.248 3c5a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/29-12:55:49.663 5925 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-12:55:49.667 5925 Recovering log #7
+2021/12/29-12:55:49.667 5925 Reusing old log /home/dmitriy/.config/chromium/Default/IndexedDB/https_losst.ru_0.indexeddb.leveldb/000007.log 
+2021/12/29-12:56:21.518 5929 Level-0 table #12: started
+2021/12/29-12:56:21.520 5929 Level-0 table #12: 3530 bytes OK
+2021/12/29-12:56:21.522 5929 Delete type=0 #7
+2021/12/29-12:56:21.522 5929 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/29-12:56:21.522 5929 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 902 : 1
+2021/12/29-12:56:21.522 5929 Compacting 1@1 + 1@2 files
+2021/12/29-12:56:21.523 5929 Generated table #13@1: 98 keys, 2222 bytes
+2021/12/29-12:56:21.523 5929 Compacted 1@1 + 1@2 files => 2222 bytes
+2021/12/29-12:56:21.525 5929 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/29-12:56:21.525 5929 Delete type=2 #12
+2021/12/29-12:56:21.525 5929 Delete type=2 #9
+2021/12/29-12:56:21.526 5929 Manual compaction at level-1 from '\x00\x01\x03\x02\x01\x1f\x00w\x00e\x00b\x00h\x00o\x00o\x00k\x00s\x00.\x00n\x00o\x00t\x00i\x00f\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00.\x00d\x00i\x00s\x00p\x00l\x00a\x00y\x00e\x00d' @ 902 : 1 .. (end); will stop at (end)

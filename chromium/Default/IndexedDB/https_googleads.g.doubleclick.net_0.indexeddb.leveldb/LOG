@@ -1,8 +1,15 @@
-2021/12/28-11:58:57.366 786 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
-2021/12/28-11:58:57.366 786 Recovering log #4
-2021/12/28-11:58:57.366 786 Reusing old log /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000004.log 
-2021/12/28-11:59:05.841 4ef Level-0 table #8: started
-2021/12/28-11:59:05.841 4ef Level-0 table #8: 0 bytes OK
-2021/12/28-11:59:05.843 4ef Delete type=0 #4
-2021/12/28-11:59:05.843 4ef Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2021/12/28-11:59:05.843 4ef Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2021/12/28-16:25:01.250 6d14 Reusing MANIFEST /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/28-16:25:01.251 6d14 Recovering log #7
+2021/12/28-16:25:01.251 6d14 Reusing old log /home/dmitriy/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000007.log 
+2021/12/28-16:25:28.949 6d13 Level-0 table #11: started
+2021/12/28-16:25:28.950 6d13 Level-0 table #11: 190 bytes OK
+2021/12/28-16:25:28.952 6d13 Delete type=0 #7
+2021/12/28-16:25:28.952 6d13 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/28-16:25:28.952 6d13 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 9 : 1
+2021/12/28-16:25:28.952 6d13 Compacting 1@1 + 1@2 files
+2021/12/28-16:25:28.953 6d13 Generated table #12@1: 8 keys, 372 bytes
+2021/12/28-16:25:28.953 6d13 Compacted 1@1 + 1@2 files => 372 bytes
+2021/12/28-16:25:28.955 6d13 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/28-16:25:28.955 6d13 Delete type=2 #5
+2021/12/28-16:25:28.955 6d13 Delete type=2 #11
+2021/12/28-16:25:28.955 6d13 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 9 : 1 .. (end); will stop at (end)

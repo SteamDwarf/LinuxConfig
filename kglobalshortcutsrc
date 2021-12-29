@@ -1,3 +1,11 @@
 [ActivityManager]
 _k_friendly_name=Диспетчер комнат
 switch-to-activity-4b8b79df-be50-44d2-a7cd-5b367708c31a=none,none,Переключиться на комнату «Начальная комната»
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Сделать снимок активного окна
+CurrentMonitorScreenShot=,none,Сделать снимок текущего экрана
+FullScreenScreenShot=Shift+Print,Shift+Print,Сделать снимок всех экранов
+RectangularRegionScreenShot=Meta+Shift+S,Meta+Shift+Print,Сделать снимок прямоугольной области экрана
+_k_friendly_name=Spectacle
+_launch=Print,Print,Запустить Spectacle

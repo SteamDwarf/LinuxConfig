@@ -1,4 +1,5 @@
 if status is-interactive
-    alias ls='ls -la'
+    alias lla='ls -la'
+    alias cl='clear'
     # Commands to run in interactive sessions can go here
 end
